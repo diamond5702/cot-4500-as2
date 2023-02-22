@@ -8,10 +8,10 @@ You can do this by opening your command prompt and typing in:
 pip install numpy
 
 After that, to run the code you will need to change the directory to the folder where the file was downloaded. 
-Ex: Of the file was dowloaded to the "Downloads" folder you'd type:
+  Ex: If the file was dowloaded to the "Downloads" folder you'd type:
 
 cd Downloads
 
-Lastly to run the code type:
+Lastly to run the code, type:
 
-python3 
+python3 assignment_2.py
